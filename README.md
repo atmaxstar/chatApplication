@@ -10,6 +10,7 @@ This is the application for chatting in a room.
 ![スクリーンショット 2024-04-02 165534](https://github.com/atmaxstar/chatApplication/assets/106535011/a785978a-a24b-43a8-a146-ff310cf06c13)
 
 You can try deployed one here[https://chat-app-roan-five.vercel.app/]
+If you want to try real-time chat, open this website with more than one screen
 
 # Features
 * Real-time Chat
