@@ -7,7 +7,7 @@ This is the application for chatting in a room.
 * api - backend
 
 # DEMO
-!(https://github.com/atmaxstar/chatApplication/issues/1#issue-2219826469)
+!(https://private-user-images.githubusercontent.com/106535011/318691780-53221a3a-fa3a-498a-acda-01543360e49c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwNDYyODAsIm5iZiI6MTcxMjA0NTk4MCwicGF0aCI6Ii8xMDY1MzUwMTEvMzE4NjkxNzgwLTUzMjIxYTNhLWZhM2EtNDk4YS1hY2RhLTAxNTQzMzYwZTQ5Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwMlQwODE5NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMzE1MWUyZDBkNDkwMDJjN2I2NTMwN2M1YWY3N2U5OGZlYmZkYTM5OTI4NzJkOTM0NDYwYjMxYzFiNjhkMmJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nWop2byMQRW3KQV_ri9d0hBzURkcr4T5LXgh2Pxi60I)
 
 You can try deployed one here[https://chat-app-roan-five.vercel.app/]
 
@@ -22,5 +22,5 @@ You can try deployed one here[https://chat-app-roan-five.vercel.app/]
 
 # Usage
 
-Go to api directory and execute "dotnet run", and front to execute "npm start".
+Go to api directory and execute "dotnet run", and front directory to execute "npm start".
 Then, visit http://localhost:3000/.
